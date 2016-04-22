@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Yeni klasör (2)\Kod-S Sayı Piramidi v2.0 Corona\Kod-S Sayı Piramidi v2.0 Corona\bin\Debug\Kod-S Sayı Piramidi v2.0 Corona.exe
+C:\Users\mrt_b\Desktop\Yeni klasör (2)\Kod-S Sayı Piramidi v2.0 Corona\Kod-S Sayı Piramidi v2.0 Corona\bin\Debug\Kod-S Sayı Piramidi v2.0 Corona.pdb
+C:\Users\mrt_b\Desktop\Yeni klasör (2)\Kod-S Sayı Piramidi v2.0 Corona\Kod-S Sayı Piramidi v2.0 Corona\obj\x86\Debug\Kod-S Sayı Piramidi v2.0 Corona.exe
+C:\Users\mrt_b\Desktop\Yeni klasör (2)\Kod-S Sayı Piramidi v2.0 Corona\Kod-S Sayı Piramidi v2.0 Corona\obj\x86\Debug\Kod-S Sayı Piramidi v2.0 Corona.pdb
